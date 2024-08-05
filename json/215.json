@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "León",
+        "codigo": "21501",
+        "stock": 0,
+        "img": "./assets/215pc/Animalia/CAJA_215pc_Animalia_Leon.png",
+        "imgFull": "./assets/215pc/Animalia/Tapa-215_Animalia_Leon.jpg"
+    },
+    {
+        "nombre": "Tigre",
+        "codigo": "21502",
+        "stock": 0,
+        "img": "./assets/215pc/Animalia/CAJA_215pc_Animalia_Tigre.png",
+        "imgFull": "./assets/215pc/Animalia/Tapa-215_Animalia_Tigre.jpg"
+    },
+    {
+        "nombre": "Panda",
+        "codigo": "21503",
+        "stock": 0,
+        "img": "./assets/215pc/Animalia/CAJA_215pc_Animalia_Panda.png",
+        "imgFull": "./assets/215pc/Animalia/Tapa-215_Animalia_Panda.jpg"
+    },
+    {
+        "nombre": "Rinoceronte Blanco",
+        "codigo": "21504",
+        "stock": 1,
+        "img": "./assets/215pc/Animalia/CAJA_215pc_Animalia_Rinoceronte.png",
+        "imgFull": "./assets/215pc/Animalia/Tapa-215_Animalia_Rinoceronte.jpg"
+    },
+    {
+        "nombre": "Jirafa",
+        "codigo": "21505",
+        "stock": 0,
+        "img": "./assets/215pc/Animalia/CAJA_215pc_Animalia_Jirafa.png",
+        "imgFull": "./assets/215pc/Animalia/Tapa-215_Animalia_Jirafa.jpg"
+    }
+]
