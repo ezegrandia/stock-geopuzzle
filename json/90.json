@@ -145,5 +145,236 @@
         "stock": 7,
         "img": "./assets/90pc/Vida Marina/CAJA_90pc_VidaMarina_Orca.png",
         "imgFull": "./assets/90pc/Vida Marina/Tapa-90_VidaMarina_Orca.jpg"
+    },
+    {
+        "nombre": "Cocker Spaniel",
+        "codigo": "9022",
+        "stock": 6,
+        "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_Cocker.png",
+        "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_Cocker.jpg"
+    },
+    {
+        "nombre": "Pug Carlino",
+        "codigo": "9023",
+        "stock": 3,
+        "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_Pug.png",
+        "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_Pug.jpg"
+    },
+    {
+        "nombre": "Weimaraner",
+        "codigo": "9024",
+        "stock": 6,
+        "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_Weymaraner.png",
+        "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_Weymaraner.jpg"
+    },
+    {
+        "nombre": "Bulldog Frances",
+        "codigo": "9025",
+        "stock": 2,
+        "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_BulldogFrances.png",
+        "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_BulldogFrances.jpg"
+    },
+    {
+        "nombre": "Beagle",
+        "codigo": "9026",
+        "stock": 1,
+        "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_Beagle.png",
+        "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_Beagle.jpg"
+    },
+    {
+        "nombre": "Labrador",
+        "codigo": "9027",
+        "stock": 3,
+        "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_Labrador.png",
+        "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_Labrador.jpg"
+    },
+    {
+        "nombre": "Dachshund",
+        "codigo": "9028",
+        "stock": 5,
+        "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_Dachshund.png",
+        "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_Dachshund.jpg"
+    },
+    {
+        "nombre": "Orange Tabby",
+        "codigo": "9029",
+        "stock": 1,
+        "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_OrangeTabby.png",
+        "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_OrangeTabby.jpg"
+    },
+    {
+        "nombre": "Bengala",
+        "codigo": "9030",
+        "stock": 1,
+        "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_Bengala.png",
+        "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_Bengala.jpg"
+    },
+    {
+        "nombre": "British Shorthair",
+        "codigo": "9031",
+        "stock": 10,
+        "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_British.png",
+        "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_British.jpg"
+    },
+    {
+        "nombre": "Nebelung",
+        "codigo": "9032",
+        "stock": 5,
+        "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_Nebelung.png",
+        "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_Nebelung.jpg"
+    },
+    {
+        "nombre": "Erizo Pigmeo",
+        "codigo": "9033",
+        "stock": 0,
+        "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_Erizo.png",
+        "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_Erizo.jpg"
+    },
+    {
+        "nombre": "Chichén Itzá",
+        "codigo": "9034",
+        "stock": 7,
+        "img": "./assets/90pc/Maravillas/CAJA_90pc_Maravillas_ChichenItza.png",
+        "imgFull": "./assets/90pc/Maravillas/Tapa-90_Maravillas_ChichenItza.jpg"
+    },
+    {
+        "nombre": "Piramides",
+        "codigo": "9035",
+        "stock": 7,
+        "img": "./assets/90pc/Maravillas/CAJA_90pc_Maravillas_Piramides.png",
+        "imgFull": "./assets/90pc/Maravillas/Tapa-90_Maravillas_Piramides.jpg"
+    },
+    {
+        "nombre": "Muralla China",
+        "codigo": "9036",
+        "stock": 5,
+        "img": "./assets/90pc/Maravillas/CAJA_90pc_Maravillas_Muralla.png",
+        "imgFull": "./assets/90pc/Maravillas/Tapa-90_Maravillas_MurallaChina.jpg"
+    },
+    {
+        "nombre": "Machu Picchu",
+        "codigo": "9037",
+        "stock": 3,
+        "img": "./assets/90pc/Maravillas/CAJA_90pc_Maravillas_MachuP.png",
+        "imgFull": "./assets/90pc/Maravillas/Tapa-90_Maravillas_MachuP.jpg"
+    },
+    {
+        "nombre": "Coliseo",
+        "codigo": "9038",
+        "stock": 8,
+        "img": "./assets/90pc/Maravillas/CAJA_90pc_Maravillas_Coliseo.png",
+        "imgFull": "./assets/90pc/Maravillas/Tapa-90_Maravillas_Coliseo.jpg"
+    },
+    {
+        "nombre": "Petra",
+        "codigo": "9039",
+        "stock": 7,
+        "img": "./assets/90pc/Maravillas/CAJA_90pc_Maravillas_Petra.png",
+        "imgFull": "./assets/90pc/Maravillas/Tapa-90_Maravillas_Petra.jpg"
+    },
+    {
+        "nombre": "Torre Eiffel",
+        "codigo": "9040",
+        "stock": 2,
+        "img": "./assets/90pc/Maravillas/CAJA_90pc_Maravillas_Eiffel.png",
+        "imgFull": "./assets/90pc/Maravillas/Tapa-90_Maravillas_Eiffel.jpg"
+    },
+    {
+        "nombre": "Taj Mahal",
+        "codigo": "9041",
+        "stock": 4,
+        "img": "./assets/90pc/Maravillas/CAJA_90pc_Maravillas_TajMahal.png",
+        "imgFull": "./assets/90pc/Maravillas/Tapa-90_Maravillas_TajMahal.jpg"
+    },
+    {
+        "nombre": "Partenón",
+        "codigo": "9042",
+        "stock": 1,
+        "img": "./assets/90pc/Maravillas/CAJA_90pc_Maravillas_Partenon.png",
+        "imgFull": "./assets/90pc/Maravillas/Tapa-90_Maravillas_Partenon.jpg"
+    },
+    {
+        "nombre": "Torre de Pisa",
+        "codigo": "9043",
+        "stock": 3,
+        "img": "./assets/90pc/Monumentos/CAJA_90pc_Monumentos_Pisa.png",
+        "imgFull": "./assets/90pc/Monumentos/Tapa-90_Monumentos_Pisa.jpg"
+    },
+    {
+        "nombre": "Fontana di Trevi",
+        "codigo": "9044",
+        "stock": 7,
+        "img": "./assets/90pc/Monumentos/CAJA_90pc_Monumentos_Fontana.png",
+        "imgFull": "./assets/90pc/Monumentos/Tapa-90_Monumentos_Fontana.jpg"
+    },
+    {
+        "nombre": "Arco del Triunfo",
+        "codigo": "9045",
+        "stock": 1,
+        "img": "./assets/90pc/Monumentos/CAJA_90pc_Monumentos_ArcoTriunfo.png",
+        "imgFull": "./assets/90pc/Monumentos/Tapa-90_Monumentos_ArcoTriunfo.jpg"
+    },
+    {
+        "nombre": "Museo del Louvre",
+        "codigo": "9046",
+        "stock": 6,
+        "img": "./assets/90pc/Monumentos/CAJA_90pc_Monumentos_Louvre.png",
+        "imgFull": "./assets/90pc/Monumentos/Tapa-90_Monumentos_Louvre.jpg"
+    },
+    {
+        "nombre": "Chateau de Chambord",
+        "codigo": "9047",
+        "stock": 6,
+        "img": "./assets/90pc/Monumentos/CAJA_90pc_Monumentos_Chateau.png",
+        "imgFull": "./assets/90pc/Monumentos/Tapa-90_Monumentos_Chateau.jpg"
+    },
+    {
+        "nombre": "Castillo Alemán",
+        "codigo": "9048",
+        "stock": 8,
+        "img": "./assets/90pc/Monumentos/CAJA_90pc_Monumentos_Castillo.png",
+        "imgFull": "./assets/90pc/Monumentos/Tapa-90_Monumentos_CastilloAleman.jpg"
+    },
+    {
+        "nombre": "Big Ben",
+        "codigo": "9049",
+        "stock": 6,
+        "img": "./assets/90pc/Monumentos/CAJA_90pc_Monumentos_BigBen.png",
+        "imgFull": "./assets/90pc/Monumentos/Tapa-90_Monumentos_BigBen.jpg"
+    },
+    {
+        "nombre": "Puente de la Torre",
+        "codigo": "9050",
+        "stock": 1,
+        "img": "./assets/90pc/Monumentos/CAJA_90pc_Monumentos_Puente.png",
+        "imgFull": "./assets/90pc/Monumentos/Tapa-90_Monumentos_PuenteTorre.jpg"
+    },
+    {
+        "nombre": "Estatua de La Libertad",
+        "codigo": "9051",
+        "stock": 6,
+        "img": "./assets/90pc/Monumentos/CAJA_90pc_Monumentos_EstatuaLibertad.png",
+        "imgFull": "./assets/90pc/Monumentos/Tapa-90_Monumentos_EstatuaLibertad.jpg"
+    },
+    {
+        "nombre": "Sagrada Familia",
+        "codigo": "9052",
+        "stock": 5,
+        "img": "./assets/90pc/Monumentos/CAJA_90pc_.705.png",
+        "imgFull": "./assets/90pc/Monumentos/Tapa-90_Monumentos_SagradaFamilia.jpg"
+    },
+    {
+        "nombre": "Templo Blanco",
+        "codigo": "9053",
+        "stock": 6,
+        "img": "./assets/90pc/Monumentos/CAJA_90pc_Monumentos_TemploBlanco.png",
+        "imgFull": "./assets/90pc/Monumentos/Tapa-90_Monumentos_TemploBlanco.jpg"
+    },
+    {
+        "nombre": "San Basilio",
+        "codigo": "9054",
+        "stock": 3,
+        "img": "./assets/90pc/Monumentos/CAJA_90pc_Monumentos_SanBasilio.png",
+        "imgFull": "./assets/90pc/Monumentos/Tapa-90_Monumentos_SanBasilio.jpg"
     }
 ]
