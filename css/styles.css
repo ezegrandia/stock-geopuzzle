@@ -35,13 +35,31 @@
 
 .page-container {
     padding: 20px 0;
-    max-width: 900px;
+    max-width: 60%;
     margin: 0 auto;
     min-height: 100vh;
     background-color: #fff;
     -webkit-box-shadow: 0px 0px 19px 4px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 0px 19px 4px rgba(0, 0, 0, 0.75);
     box-shadow: 0px 0px 19px 4px rgba(0, 0, 0, 0.75);
+}
+
+@media (max-width: 1000px) {
+    .page-container {
+        max-width: 80%;
+    }
+}
+
+@media (max-width: 800px) {
+    .page-container {
+        max-width: 90%;
+    }
+}
+
+@media (max-width: 550px) {
+    .page-container {
+        max-width: 100%;
+    }
 }
 
 /* FIN GENERAL */
@@ -148,6 +166,24 @@
     flex-direction: column;
     align-items: center;
     margin-top: 50px;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.main__p,
+.main__a {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.main__p-light {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.main__p-seleccion {
+    margin-top: 30px;
 }
 
 .main__h2 {
@@ -159,10 +195,14 @@
 }
 
 .main__a {
-    padding: 5px;
+    padding: 7px;
     border: 1px solid var(--color-primario);
     border-radius: 3px;
     margin-top: 10px;
+    background-color: rgba(247, 113, 113, 0.7);
+}
+.main__a-215 {
+    background-color: rgba(84, 188, 215, 0.7);
 }
 
 .main__a:hover {
@@ -180,7 +220,7 @@
 .main__img {
     height: 50px;
     width: auto;
-    margin: 30px 0;
+    margin: 35px 0;
 }
 
 .imgs-container {
@@ -195,9 +235,6 @@
     width: 250px;
     padding: 10px;
     text-align: center;
-    /* background-color: var(--color-secundario); */
-    /* border-radius: 5px; */
-    /* border: 1px solid var(--color-primario); */
 }
 
 .card__h3 {

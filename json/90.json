@@ -116,6 +116,34 @@
         "codigo": "9017",
         "stock": 0,
         "img": "./assets/90pc/Vida Marina/CAJA_90pc_VidaMarina_PezDisco.png",
-        "imgFull": "./assets/90pc/Tapa-90_VidaMarina_PezDisco.jpg"
+        "imgFull": "./assets/90pc/Vida Marina/Tapa-90_VidaMarina_PezDisco.jpg"
+    },
+    {
+        "nombre": "Caballito de Mar",
+        "codigo": "9018",
+        "stock": 0,
+        "img": "./assets/90pc/Vida Marina/CAJA_90pc_VidaMarina_CaballitoMar.png",
+        "imgFull": "./assets/90pc/Vida Marina/Tapa-90_VidaMarina_CaballitoDeMar.jpg"
+    },
+    {
+        "nombre": "Pez Payaso",
+        "codigo": "9019",
+        "stock": 2,
+        "img": "./assets/90pc/Vida Marina/CAJA_90pc_VidaMarina_PezPayaso.png",
+        "imgFull": "./assets/90pc/Vida Marina/Tapa-90_VidaMarina_PezPayaso.jpg"
+    },
+    {
+        "nombre": "Tortuga Carey",
+        "codigo": "9020",
+        "stock": 3,
+        "img": "./assets/90pc/Vida Marina/CAJA_90pc_VidaMarina_Tortuga.png",
+        "imgFull": "./assets/90pc/Vida Marina/Tapa-90_VidaMarina_Tortuga.jpg"
+    },
+    {
+        "nombre": "Orca",
+        "codigo": "9021",
+        "stock": 7,
+        "img": "./assets/90pc/Vida Marina/CAJA_90pc_VidaMarina_Orca.png",
+        "imgFull": "./assets/90pc/Vida Marina/Tapa-90_VidaMarina_Orca.jpg"
     }
 ]
