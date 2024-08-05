@@ -33,5 +33,61 @@
         "stock": 0,
         "img": "./assets/215pc/Animalia/CAJA_215pc_Animalia_Jirafa.png",
         "imgFull": "./assets/215pc/Animalia/Tapa-215_Animalia_Jirafa.jpg"
+    },
+    {
+        "nombre": "Foca de Weddell",
+        "codigo": "21506",
+        "stock": 1,
+        "img": "./assets/215pc/Baby Animal/CAJA_215pc_BabyAnimal_Foca.png",
+        "imgFull": "./assets/215pc/Baby Animal/Tapa-215_BabyAnimal_Foca.jpg"
+    },
+    {
+        "nombre": "Guepardo",
+        "codigo": "21507",
+        "stock": 0,
+        "img": "./assets/215pc/Baby Animal/CAJA_215pc_BabyAnimal_Guepardo.png",
+        "imgFull": "./assets/215pc/Baby Animal/Tapa-215_BabyAnimal_Guepardo.jpg"
+    },
+    {
+        "nombre": "Guacamayo Amarillo",
+        "codigo": "21508",
+        "stock": 0,
+        "img": "./assets/215pc/Aves/CAJA_215pc_Aves_Guacamayo.png",
+        "imgFull": "./assets/215pc/Aves/Tapa-215_Aves_Guacamayo.jpg"
+    },
+    {
+        "nombre": "Pavo Real",
+        "codigo": "21509",
+        "stock": 0,
+        "img": "./assets/215pc/Aves/CAJA_215pc_Aves_PavoReal.png",
+        "imgFull": "./assets/215pc/Aves/Tapa-215_Aves_PavoReal.jpg"
+    },
+    {
+        "nombre": "Búho",
+        "codigo": "21510",
+        "stock": 1,
+        "img": "./assets/215pc/Aves/CAJA_215pc_Aves_Buho.png",
+        "imgFull": "./assets/215pc/Aves/Tapa-215_Aves_Buho.jpg"
+    },
+    {
+        "nombre": "Flamenco Rojo",
+        "codigo": "21511",
+        "stock": 1,
+        "img": "./assets/215pc/Aves/CAJA_215pc_Aves_Flamenco.png",
+        "imgFull": "./assets/215pc/Aves/Tapa-215_Aves_Flamenco.jpg"
+    },
+    {
+        "nombre": "Tucán Pico Iris",
+        "codigo": "21512",
+        "stock": 0,
+        "img": "./assets/215pc/Aves/CAJA_215pc_Aves_Tucan.png",
+        "imgFull": "./assets/215pc/Aves/Tapa-215_Aves_Tucan.jpg"
+    },
+    {
+        "nombre": "Águila Calva",
+        "codigo": "21513",
+        "stock": 0,
+        "img": "./assets/215pc/Aves/CAJA_215pc_Aves_Aguila.png",
+        "imgFull": "./assets/215pc/Aves/Tapa-215_Aves_Aguila.jpg"
     }
 ]
