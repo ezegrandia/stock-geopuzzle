@@ -103,5 +103,19 @@
         "stock": 0,
         "img": "./assets/90pc/Aves/CAJA_90pc_Aves_Aguila.png",
         "imgFull": "./assets/90pc/Aves/Tapa-90_Aves_Aguila.jpg"
+    },
+    {
+        "nombre": "Pez Koi",
+        "codigo": "9016",
+        "stock": 8,
+        "img": "./assets/90pc/Vida Marina/CAJA_90pc_VidaMarina_PezKoi.png",
+        "imgFull": "./assets/90pc/Vida Marina/Tapa-90_VidaMarina_PezKoi.jpg"
+    },
+    {
+        "nombre": "Pez Disco",
+        "codigo": "9017",
+        "stock": 0,
+        "img": "./assets/90pc/Vida Marina/CAJA_90pc_VidaMarina_PezDisco.png",
+        "imgFull": "./assets/90pc/Tapa-90_VidaMarina_PezDisco.jpg"
     }
 ]
