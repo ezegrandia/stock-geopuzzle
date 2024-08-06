@@ -35,7 +35,7 @@
 
 .page-container {
     padding: 20px 0;
-    max-width: 60%;
+    max-width: 70%;
     margin: 0 auto;
     min-height: 100vh;
     background-color: #fff;
@@ -58,7 +58,7 @@
 
 @media (max-width: 550px) {
     .page-container {
-        max-width: 100%;
+        max-width: 95%;
     }
 }
 
@@ -277,13 +277,14 @@
     margin: 5px 0;
 }
 
-.puzzle-img {
+/* .puzzle-img {
     height: 200px;
     cursor: pointer;
     transition: filter 0.3s ease;
     object-fit: cover;
     object-position: center center;
-}
+    position: relative;
+} */
 
 .puzzle-img.grayscale {
     filter: grayscale(100%);
@@ -314,6 +315,51 @@
     font-size: 40px;
     color: white;
     cursor: pointer;
+}
+
+.puzzle-img-wrapper {
+    position: relative;
+    display: inline-block; /* or block if you want to make it a block element */
+}
+
+.puzzle-img.grayscale + .diagonal-bar-90,
+.puzzle-img.grayscale + .diagonal-bar-215 {
+    display: block;
+}
+
+.diagonal-bar-90,
+.diagonal-bar-215 {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 54%;
+    width: 3px;
+    height: 100%;
+    background: rgba(255, 0, 0, 0.5);
+    z-index: 1;
+    display: none; /* Initially hidden */
+}
+
+.diagonal-bar-90 {
+    transform: rotate(48deg);
+    transform-origin: center center;
+}
+
+.diagonal-bar-215 {
+    left: 54%;
+    transform: rotate(58deg); /* Ajusta este valor según sea necesario */
+    transform-origin: center center;
+}
+
+.puzzle-img {
+    display: block;
+    height: 200px;
+    cursor: pointer;
+    transition: filter 0.3s ease;
+    object-fit: cover;
+    object-position: center center;
+    position: relative;
+    z-index: 0; /* Ensure the image is behind the pseudo-element */
 }
 
 /* FIN MAIN */
