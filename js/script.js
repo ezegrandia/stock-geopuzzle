@@ -68,11 +68,23 @@ function openFullscreen(event) {
     const fullscreenImg = fullscreenOverlay.querySelector(".fullscreen-img");
     fullscreenImg.src = imgSrc;
     fullscreenOverlay.style.display = "flex";
+
+    // Add event listener for the escape key to close the fullscreen
+    document.addEventListener("keydown", handleKeyDown);
 }
 
 function closeFullscreen() {
     const fullscreenOverlay = document.querySelector(".fullscreen-overlay");
     fullscreenOverlay.style.display = "none";
+
+    // Remove event listener for the escape key when closing the fullscreen
+    document.removeEventListener("keydown", handleKeyDown);
+}
+
+function handleKeyDown(event) {
+    if (event.key === "Escape") {
+        closeFullscreen();
+    }
 }
 
 document.querySelector(".close-btn").addEventListener("click", closeFullscreen);
