@@ -1,0 +1,5 @@
+---
+deployment:
+    tasks:
+        - export DEPLOYPATH=/home4/plastimoldcom/public_html/geopuzzles
+        - /bin/cp -R * $DEPLOYPATH
