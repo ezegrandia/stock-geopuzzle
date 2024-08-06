@@ -4,12 +4,17 @@ document.addEventListener("DOMContentLoaded", function () {
 
     fetch(jsonPath)
         .then((response) => response.json())
-        .then((data) => renderPuzzles(data, barClass))
+        .then((data) => {
+            setupSortOptions(data, barClass);
+            document.getElementById("available").checked = true;
+            filterPuzzles("available", data, barClass); // Show available puzzles by default
+        })
         .catch((error) => console.error("Error al cargar el archivo JSON:", error));
 });
 
 function renderPuzzles(puzzles, barClass) {
     const container = document.querySelector(".imgs-container");
+    container.innerHTML = ""; // Clear previous content
     puzzles.forEach((puzzle) => {
         const card = document.createElement("div");
         card.classList.add("card");
@@ -71,3 +76,23 @@ function closeFullscreen() {
 }
 
 document.querySelector(".close-btn").addEventListener("click", closeFullscreen);
+
+function setupSortOptions(originalPuzzles, barClass) {
+    document.querySelectorAll('input[name="sort"]').forEach((radio) => {
+        radio.addEventListener("change", function () {
+            filterPuzzles(this.value, originalPuzzles, barClass);
+        });
+    });
+}
+
+function filterPuzzles(filter, puzzles, barClass) {
+    let sortedPuzzles;
+    if (filter === "all") {
+        sortedPuzzles = puzzles.slice(); // Make a copy to avoid modifying the original
+    } else if (filter === "available") {
+        sortedPuzzles = puzzles.filter((puzzle) => puzzle.stock > 0).concat(puzzles.filter((puzzle) => puzzle.stock === 0));
+    } else if (filter === "out-of-stock") {
+        sortedPuzzles = puzzles.filter((puzzle) => puzzle.stock === 0).concat(puzzles.filter((puzzle) => puzzle.stock > 0));
+    }
+    renderPuzzles(sortedPuzzles, barClass);
+}
