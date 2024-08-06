@@ -100,35 +100,35 @@
     {
         "nombre": "Tortuga Carey",
         "codigo": "21515",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Vida Marina/CAJA_215pc_VidaMarina_Tortuga.png",
         "imgFull": "./assets/215pc/Vida Marina/Tapa-215_VidaMarina_Tortuga.jpg"
     },
     {
         "nombre": "Weimaraner",
         "codigo": "21516",
-        "stock": 1,
+        "stock": 2,
         "img": "./assets/215pc/Mascotas/CAJA_215pc_Mascotas_Weymaraner.png",
         "imgFull": "./assets/215pc/Mascotas/Tapa-215_Mascotas_Weymaraner.jpg"
     },
     {
         "nombre": "British Shorthair",
         "codigo": "21517",
-        "stock": 1,
+        "stock": 2,
         "img": "./assets/215pc/Mascotas/CAJA_215pc_Mascotas_British.png",
         "imgFull": "./assets/215pc/Mascotas/Tapa-215_Mascotas_British.jpg"
     },
     {
         "nombre": "Bulldog Francés",
         "codigo": "21518",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Mascotas/CAJA_215pc_Mascotas_BulldogFrances.png",
         "imgFull": "./assets/215pc/Mascotas/Tapa-215_Mascotas_BulldogFrances.jpg"
     },
     {
         "nombre": "Pug Carlino",
         "codigo": "21519",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Mascotas/CAJA_215pc_Mascotas_pug.png",
         "imgFull": "./assets/215pc/Mascotas/Tapa-215_Mascotas_Pug.jpg"
     },
@@ -142,28 +142,28 @@
     {
         "nombre": "Muralla China",
         "codigo": "21521",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Maravillas/CAJA_215pc_Maravillas_Muralla.png",
         "imgFull": "./assets/215pc/Maravillas/Tapa-215_Maravillas_MurallaChina.jpg"
     },
     {
         "nombre": "Machu Picchu",
         "codigo": "21522",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Maravillas/CAJA_215pc_Maravillas_MachuPicchu.png",
         "imgFull": "./assets/215pc/Maravillas/Tapa-215_Maravillas_MachuPicchu.jpg"
     },
     {
         "nombre": "Chichén Itzá",
         "codigo": "21523",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Maravillas/CAJA_215pc_Maravillas_ChichenItza.png",
         "imgFull": "./assets/215pc/Maravillas/Tapa-215_Maravillas_ChichenItza.jpg"
     },
     {
         "nombre": "Coliseo",
         "codigo": "21524",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Maravillas/CAJA_215pc_Maravillas_Coliseo.png",
         "imgFull": "./assets/215pc/Maravillas/Tapa-215_Maravillas_Coliseo.jpg"
     },
@@ -177,7 +177,7 @@
     {
         "nombre": "Taj Mahal",
         "codigo": "21526",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Maravillas/CAJA_215pc_Maravillas_TajMahal.png",
         "imgFull": "./assets/215pc/Maravillas/Tapa-215_Maravillas_TajMahal.jpg"
     },
@@ -198,91 +198,91 @@
     {
         "nombre": "Castillo Alemán",
         "codigo": "21529",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_Castillo.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_Castillo.jpg"
     },
     {
         "nombre": "Big Ben",
         "codigo": "21530",
-        "stock": 1,
+        "stock": 2,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_BigBen.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_BigBen.jpg"
     },
     {
         "nombre": "Arco del Triunfo",
         "codigo": "21531",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_ArcoTriunfo.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_ArcoTriunfo.jpg"
     },
     {
         "nombre": "Petra",
         "codigo": "21532",
-        "stock": 1,
+        "stock": 4,
         "img": "./assets/215pc/Maravillas/CAJA_215pc_Maravillas_Petra.png",
         "imgFull": "./assets/215pc/Maravillas/Tapa-215_Maravillas_Petra.jpg"
     },
     {
         "nombre": "Torre de Pisa",
         "codigo": "215333",
-        "stock": 1,
+        "stock": 6,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_Pisa.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_TorrePisa.jpg"
     },
     {
         "nombre": "Sagrada Familia",
         "codigo": "215334",
-        "stock": 1,
+        "stock": 4,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_SagradaFlia.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_SagradaFamilia.jpg"
     },
     {
         "nombre": "Puente de La Torre",
         "codigo": "215335",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_Puente.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_PuenteTorre.jpg"
     },
     {
         "nombre": "Museo del Louvre",
         "codigo": "215336",
-        "stock": 1,
+        "stock": 2,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_Louvre.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_Louvre.jpg"
     },
     {
         "nombre": "Fontana Di Trevi",
         "codigo": "215337",
-        "stock": 1,
+        "stock": 4,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_Fontana.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_Fontana.jpg"
     },
     {
         "nombre": "Estatua de La Libertad",
         "codigo": "215338",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_EstatuaLibertad.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_EstatuaLibertad.jpg"
     },
     {
         "nombre": "Chateau de Chambord",
         "codigo": "215339",
-        "stock": 1,
+        "stock": 3,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_Chateau.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_Chateau.jpg"
     },
     {
         "nombre": "San Basilio",
         "codigo": "215340",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_SanBasilio.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_SanBasilio.jpg"
     },
     {
         "nombre": "Aconcagua",
         "codigo": "215341",
-        "stock": 1,
+        "stock": 2,
         "img": "./assets/215pc/Mendoza/CAJA_215pc_Mendoza-Aconcagua.png",
         "imgFull": "./assets/215pc/Mendoza/Tapa-215_Mendoza_Aconcagua.jpg"
     },
@@ -296,14 +296,14 @@
     {
         "nombre": "Laguna del Diamante",
         "codigo": "215343",
-        "stock": 1,
+        "stock": 3,
         "img": "./assets/215pc/Mendoza/CAJA_215pc_Mendoza-LagunaDiamante.png",
         "imgFull": "./assets/215pc/Mendoza/Tapa-215_Mendoza_LagunaDiamante.jpg"
     },
     {
         "nombre": "Perilago Potrerillos",
         "codigo": "215344",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Mendoza/CAJA_215pc_Mendoza-Perilago.png",
         "imgFull": "./assets/215pc/Mendoza/Tapa-215_Mendoza_Perilago.jpg"
     },
