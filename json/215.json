@@ -65,14 +65,14 @@
     {
         "nombre": "Búho",
         "codigo": "21510",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Aves/CAJA_215pc_Aves_Buho.png",
         "imgFull": "./assets/215pc/Aves/Tapa-215_Aves_Buho.jpg"
     },
     {
         "nombre": "Flamenco Rojo",
         "codigo": "21511",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Aves/CAJA_215pc_Aves_Flamenco.png",
         "imgFull": "./assets/215pc/Aves/Tapa-215_Aves_Flamenco.jpg"
     },
@@ -114,7 +114,7 @@
     {
         "nombre": "British Shorthair",
         "codigo": "21517",
-        "stock": 2,
+        "stock": 0,
         "img": "./assets/215pc/Mascotas/CAJA_215pc_Mascotas_British.png",
         "imgFull": "./assets/215pc/Mascotas/Tapa-215_Mascotas_British.jpg"
     },
@@ -170,7 +170,7 @@
     {
         "nombre": "Torre Eiffel",
         "codigo": "21525",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Maravillas/CAJA_215pc_Maravillas_TorreEiffel.png",
         "imgFull": "./assets/215pc/Maravillas/Tapa-215_Maravillas_TorreEiffel.jpg"
     },
@@ -184,7 +184,7 @@
     {
         "nombre": "Pirámides",
         "codigo": "21527",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Maravillas/CAJA_215pc_Maravillas_Piramides.png",
         "imgFull": "./assets/215pc/Maravillas/Tapa-215_Maravillas_Piramides.jpg"
     },

@@ -9,7 +9,7 @@
     {
         "nombre": "Tigre",
         "codigo": "9002",
-        "stock": 11,
+        "stock": 9,
         "img": "./assets/90pc/Animalia/CAJA_90pc_Animalia_Tigre.png",
         "imgFull": "./assets/90pc/Animalia/Tapa-90_Animalia_Tigre.jpg"
     },
@@ -23,7 +23,7 @@
     {
         "nombre": "Jirafa",
         "codigo": "9004",
-        "stock": 2,
+        "stock": 0,
         "img": "./assets/90pc/Animalia/CAJA_90pc_Animalia_Jirafa.png",
         "imgFull": "./assets/90pc/Animalia/Tapa-90_Animalia_Jirafa.jpg"
     },
@@ -37,7 +37,7 @@
     {
         "nombre": "Guepardo",
         "codigo": "9006",
-        "stock": 5,
+        "stock": 1,
         "img": "./assets/90pc/Baby Animal/CAJA_90pc_BabyAnimal_Guepardo.png",
         "imgFull": "./assets/90pc/Baby Animal/Tapa-90_BabyAnimal_Guepardo.jpg"
     },
@@ -128,21 +128,21 @@
     {
         "nombre": "Pez Payaso",
         "codigo": "9019",
-        "stock": 2,
+        "stock": 0,
         "img": "./assets/90pc/Vida Marina/CAJA_90pc_VidaMarina_PezPayaso.png",
         "imgFull": "./assets/90pc/Vida Marina/Tapa-90_VidaMarina_PezPayaso.jpg"
     },
     {
         "nombre": "Tortuga Carey",
         "codigo": "9020",
-        "stock": 3,
+        "stock": 2,
         "img": "./assets/90pc/Vida Marina/CAJA_90pc_VidaMarina_Tortuga.png",
         "imgFull": "./assets/90pc/Vida Marina/Tapa-90_VidaMarina_Tortuga.jpg"
     },
     {
         "nombre": "Orca",
         "codigo": "9021",
-        "stock": 7,
+        "stock": 6,
         "img": "./assets/90pc/Vida Marina/CAJA_90pc_VidaMarina_Orca.png",
         "imgFull": "./assets/90pc/Vida Marina/Tapa-90_VidaMarina_Orca.jpg"
     },
@@ -177,7 +177,7 @@
     {
         "nombre": "Beagle",
         "codigo": "9026",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_Beagle.png",
         "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_Beagle.jpg"
     },
@@ -198,14 +198,14 @@
     {
         "nombre": "Orange Tabby",
         "codigo": "9029",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_OrangeTabby.png",
         "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_OrangeTabby.jpg"
     },
     {
         "nombre": "Bengala",
         "codigo": "9030",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_Bengala.png",
         "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_Bengala.jpg"
     },
@@ -254,7 +254,7 @@
     {
         "nombre": "Machu Picchu",
         "codigo": "9037",
-        "stock": 3,
+        "stock": 0,
         "img": "./assets/90pc/Maravillas/CAJA_90pc_Maravillas_MachuP.png",
         "imgFull": "./assets/90pc/Maravillas/Tapa-90_Maravillas_MachuP.jpg"
     },
