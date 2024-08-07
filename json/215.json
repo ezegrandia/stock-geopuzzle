@@ -219,21 +219,21 @@
     {
         "nombre": "Petra",
         "codigo": "21532",
-        "stock": 4,
+        "stock": 3,
         "img": "./assets/215pc/Maravillas/CAJA_215pc_Maravillas_Petra.png",
         "imgFull": "./assets/215pc/Maravillas/Tapa-215_Maravillas_Petra.jpg"
     },
     {
         "nombre": "Torre de Pisa",
         "codigo": "215333",
-        "stock": 6,
+        "stock": 5,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_Pisa.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_TorrePisa.jpg"
     },
     {
         "nombre": "Sagrada Familia",
         "codigo": "215334",
-        "stock": 4,
+        "stock": 3,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_SagradaFlia.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_SagradaFamilia.jpg"
     },

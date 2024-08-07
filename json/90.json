@@ -9,7 +9,7 @@
     {
         "nombre": "Tigre",
         "codigo": "9002",
-        "stock": 12,
+        "stock": 11,
         "img": "./assets/90pc/Animalia/CAJA_90pc_Animalia_Tigre.png",
         "imgFull": "./assets/90pc/Animalia/Tapa-90_Animalia_Tigre.jpg"
     },
@@ -44,7 +44,7 @@
     {
         "nombre": "Foca de Weddell",
         "codigo": "9007",
-        "stock": 8,
+        "stock": 7,
         "img": "./assets/90pc/Baby Animal/CAJA_90pc_BabyAnimal_Foca.png",
         "imgFull": "./assets/90pc/Baby Animal/Tapa-90_BabyAnimal_Foca.jpg"
     },
@@ -107,7 +107,7 @@
     {
         "nombre": "Pez Koi",
         "codigo": "9016",
-        "stock": 8,
+        "stock": 7,
         "img": "./assets/90pc/Vida Marina/CAJA_90pc_VidaMarina_PezKoi.png",
         "imgFull": "./assets/90pc/Vida Marina/Tapa-90_VidaMarina_PezKoi.jpg"
     },
