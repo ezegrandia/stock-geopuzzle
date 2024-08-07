@@ -2,7 +2,7 @@
     {
         "nombre": "León",
         "codigo": "9001",
-        "stock": 5,
+        "stock": 4,
         "img": "./assets/90pc/Animalia/CAJA_90pc_Animalia_Leon.png",
         "imgFull": "./assets/90pc/Animalia/Tapa-90_Animalia_León.jpg"
     },
@@ -65,7 +65,7 @@
     {
         "nombre": "Pavo Real Indio",
         "codigo": "9010",
-        "stock": 3,
+        "stock": 2,
         "img": "./assets/90pc/Aves/CAJA_90pc_Aves_Pavo.png",
         "imgFull": "./assets/90pc/Aves/Tapa-90_Aves_PavoReal.jpg"
     },
@@ -184,7 +184,7 @@
     {
         "nombre": "Labrador",
         "codigo": "9027",
-        "stock": 3,
+        "stock": 2,
         "img": "./assets/90pc/Mascotas/CAJA_90pc_Mascotas_Labrador.png",
         "imgFull": "./assets/90pc/Mascotas/Tapa-90_Mascotas_Labrador.jpg"
     },
@@ -247,7 +247,7 @@
     {
         "nombre": "Muralla China",
         "codigo": "9036",
-        "stock": 5,
+        "stock": 4,
         "img": "./assets/90pc/Maravillas/CAJA_90pc_Maravillas_Muralla.png",
         "imgFull": "./assets/90pc/Maravillas/Tapa-90_Maravillas_MurallaChina.jpg"
     },
@@ -310,7 +310,7 @@
     {
         "nombre": "Arco del Triunfo",
         "codigo": "9045",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/90pc/Monumentos/CAJA_90pc_Monumentos_ArcoTriunfo.png",
         "imgFull": "./assets/90pc/Monumentos/Tapa-90_Monumentos_ArcoTriunfo.jpg"
     },

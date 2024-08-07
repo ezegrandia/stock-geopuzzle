@@ -107,7 +107,7 @@
     {
         "nombre": "Weimaraner",
         "codigo": "21516",
-        "stock": 2,
+        "stock": 1,
         "img": "./assets/215pc/Mascotas/CAJA_215pc_Mascotas_Weymaraner.png",
         "imgFull": "./assets/215pc/Mascotas/Tapa-215_Mascotas_Weymaraner.jpg"
     },
@@ -233,7 +233,7 @@
     {
         "nombre": "Sagrada Familia",
         "codigo": "215334",
-        "stock": 3,
+        "stock": 2,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_SagradaFlia.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_SagradaFamilia.jpg"
     },
@@ -247,14 +247,14 @@
     {
         "nombre": "Museo del Louvre",
         "codigo": "215336",
-        "stock": 2,
+        "stock": 1,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_Louvre.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_Louvre.jpg"
     },
     {
         "nombre": "Fontana Di Trevi",
         "codigo": "215337",
-        "stock": 4,
+        "stock": 3,
         "img": "./assets/215pc/Monumentos/CAJA_215pc_Monumentos_Fontana.png",
         "imgFull": "./assets/215pc/Monumentos/Tapa-215_Monumentos_Fontana.jpg"
     },
@@ -324,7 +324,7 @@
     {
         "nombre": "Embalse Valle Grande",
         "codigo": "215347",
-        "stock": 1,
+        "stock": 0,
         "img": "./assets/215pc/Mendoza/CAJA_215pc_Mendoza-ValleGrande.png",
         "imgFull": "./assets/215pc/Mendoza/Tapa-215_Mendoza_ValleGrande.jpg"
     }
