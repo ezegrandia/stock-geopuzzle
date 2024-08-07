@@ -2,7 +2,11 @@ document.addEventListener("DOMContentLoaded", function () {
     const jsonPath = window.location.pathname.includes("215.html") ? "./json/215.json" : "./json/90.json";
     const barClass = window.location.pathname.includes("215.html") ? "diagonal-bar-215" : "diagonal-bar-90";
 
-    fetch(jsonPath)
+    // Agregar un parámetro único para evitar la caché
+    const cacheBuster = new Date().getTime();
+    const jsonPathWithCacheBuster = `${jsonPath}?cb=${cacheBuster}`;
+
+    fetch(jsonPathWithCacheBuster)
         .then((response) => response.json())
         .then((data) => {
             setupSortOptions(data, barClass);
